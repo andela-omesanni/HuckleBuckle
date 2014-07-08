@@ -1,8 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 html { 
-   background: url(images/beanstalk.jpg) no-repeat, #405A8D;
-   background-size: cover;
+   background: url(images/jackBeanstalk.jpg) no-repeat, #405A8D;
+   background-size: 100% 700px;
 }
 
 
